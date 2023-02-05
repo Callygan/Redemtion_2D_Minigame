@@ -1,0 +1,14 @@
+D:\Univer\C#\Game_1\Game_1\bin\Debug\Game_1.exe.config
+D:\Univer\C#\Game_1\Game_1\bin\Debug\Game_1.exe
+D:\Univer\C#\Game_1\Game_1\bin\Debug\Game_1.pdb
+D:\Univer\C#\Game_1\Game_1\obj\Debug\Game_1.csproj.AssemblyReference.cache
+D:\Univer\C#\Game_1\Game_1\obj\Debug\Game_1.csproj.SuggestedBindingRedirects.cache
+D:\Univer\C#\Game_1\Game_1\obj\Debug\Game_1.Form1.resources
+D:\Univer\C#\Game_1\Game_1\obj\Debug\Game_1.Properties.Resources.resources
+D:\Univer\C#\Game_1\Game_1\obj\Debug\Game_1.csproj.GenerateResource.cache
+D:\Univer\C#\Game_1\Game_1\obj\Debug\Game_1.csproj.CoreCompileInputs.cache
+D:\Univer\C#\Game_1\Game_1\obj\Debug\Game_1.exe
+D:\Univer\C#\Game_1\Game_1\obj\Debug\Game_1.pdb
+D:\Univer\C#\Game_1\Game_1\obj\Debug\Interop.MediaPlayer.dll
+D:\Univer\C#\Game_1\Game_1\obj\Debug\Interop.WMPLib.dll
+D:\Univer\C#\Game_1\Game_1\obj\Debug\Game_1.csproj.ResolveComReference.cache
